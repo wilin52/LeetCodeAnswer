@@ -1,7 +1,7 @@
 /**
  * Created by wilin on 2018/5/31.
  */
-public class _23_MergeKLists {
+public class _023_MergeKLists {
     /**
      * 利用两两合并，类似于归并排序
      */

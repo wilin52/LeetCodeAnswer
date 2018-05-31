@@ -1,7 +1,7 @@
 /**
  * Created by wilin on 2018/5/31.
  */
-public class _21_MergeTwoLists {
+public class _021_MergeTwoLists {
     private class ListNode {
         int val;
         ListNode next;

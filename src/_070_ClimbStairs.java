@@ -1,7 +1,7 @@
 /**
  * Created by wilin on 2018/5/31.
  */
-public class _70_ClimbStairs {
+public class _070_ClimbStairs {
     /**
      * 假设S(n) 为n个台阶共有的方案：
      * 若最后一步走1个台阶，那么，总的方案有S(n-1)

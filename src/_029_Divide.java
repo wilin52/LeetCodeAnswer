@@ -1,7 +1,7 @@
 /**
  * Created by wilin on 2018/5/31.
  */
-public class _29_Divide {
+public class _029_Divide {
 
     /**
      * 除法可以用减法来替代，但是每次减一个除数对于大数据来说次数会很多。

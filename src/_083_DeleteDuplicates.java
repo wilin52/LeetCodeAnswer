@@ -1,7 +1,7 @@
 /**
  * Created by wilin on 2018/5/31.
  */
-public class _83_DeleteDuplicates {
+public class _083_DeleteDuplicates {
     private class ListNode {
         int val;
         ListNode next;

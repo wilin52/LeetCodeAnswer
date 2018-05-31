@@ -5,7 +5,7 @@ import java.util.Stack;
 /**
  * Created by wilin on 2018/5/31.
  */
-public class _94_InorderTraversal {
+public class _094_InorderTraversal {
 
     /**
      * 利用栈的后入先出的特性，将根节点放入栈中，访问左子树，然后在访问右子树。
